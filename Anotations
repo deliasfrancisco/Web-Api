@@ -1,0 +1,7 @@
+//// LIVRO WEB API REST - MICROSOFT
+
+
+As requisições feitas em uma web API são atraves do protocolo HTTP, que acessam as classes de controle (controllers)
+que são metodos publicos chamados de action (ações). Quando a web API recebe uma requisição HTTP ele redireciona para uma ation.
+Porem o que determina qual ação será invocada é a classe de roteamento localizada no arquivo WebApiConfig.cs em App_Start
+
